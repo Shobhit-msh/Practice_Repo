@@ -1,0 +1,30 @@
+GIT
+Version Control System to track changes in files or folders
+Centralised VCS-> nede to connect online always
+Distributed VCS-> take local copy and work later push the changes   GIT is Distributed VCS
+
+
+
+GITHUB 
+Website to upload your repository online
+Provides Backup
+Provides Visual Interface to your repo
+It makes collaboration easier
+
+GIT commands
+git init
+git status 
+git add
+git commit -m "...."
+
+for using repo create a github account
+then create a repository 
+git remote add origin location
+now repo is added now we need to psh our code to the repo 
+git push -u origin master
+
+
+git loh 
+git help
+
+
