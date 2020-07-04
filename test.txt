@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is BA31-5FC6
-
- Directory of C:\Users\Shobhit Mishra\Desktop\Project
-
-04-07-2020  17:59    <DIR>          .
-04-07-2020  17:59    <DIR>          ..
-04-07-2020  17:59                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  64,969,154,560 bytes free
+testing
